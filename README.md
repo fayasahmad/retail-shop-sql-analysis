@@ -86,8 +86,9 @@ This project performs end-to-end analysis of a retail shop's transaction data us
 ```
 retail-shop-sql-analysis/
 │
-├── retail_shop_analysis.sql   # Main SQL file with all queries
-└── README.md                  # Project documentation
+├── retail_shop_analysis.sql                # Main SQL file with all queries
+├── SQL - Retail Sales Analysis_utf .csv    # Database file
+└── README.md                               # Project documentation
 ```
 
 ---
